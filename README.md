@@ -1,5 +1,7 @@
 # IA_Jun2021
 
-## [Tarea1: Agente Inteligente](https://coradowilly.github.io/IA_Jun2021/Tarea2/Vacuum_intelligent.html)
+## [Tarea1: Diplomas](https://coradowilly.github.io/IA_Jun2021/Tarea1/index.md)
 
-## [Tarea2: Problema del Viajero](https://coradowilly.github.io/IA_Jun2021/Tarea3/Tarea3_201602412.jpeg)
+## [Tarea2: Agente Inteligente](https://coradowilly.github.io/IA_Jun2021/Tarea2/agent_intelligent.html)
+
+## [Tarea3: Problema del Viajero](https://coradowilly.github.io/IA_Jun2021/Tarea3/Tarea3_201602412.jpeg)
