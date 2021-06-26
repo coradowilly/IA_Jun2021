@@ -294,3 +294,7 @@ function verifica(espacio,cont,turno){
   } 
   return 0;
 }
+
+app.listen(port, () => {
+  console.log(`Server on port ${port}`)
+})
